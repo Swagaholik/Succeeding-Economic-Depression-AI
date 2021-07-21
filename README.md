@@ -325,10 +325,8 @@ In this problem, I attempted to capture how long it would take to go from the wo
 
 References:
 
-- For complete history of US Unemployment Rates since 1914: https://tradingeconomics.com/united-
-states/unemployment- rate#:~:text=Unemployment%20Rate%20in%20the%20United,percent%20in%20May%20of%201953 .
-- For complete history of US Inflation Rates since 1914: https://tradingeconomics.com/united- states/inflation-
-cpi#:~:text=Inflation%20Rate%20in%20the%20United,percent%20in%20June%20of%201921.
+- For complete history of US Unemployment Rates since 1914: https://tradingeconomics.com/united-states/unemployment- rate#:~:text=Unemployment%20Rate%20in%20the%20United,percent%20in%20May%20of%201953 .
+- For complete history of US Inflation Rates since 1914: https://tradingeconomics.com/united- states/inflation-cpi#:~:text=Inflation%20Rate%20in%20the%20United,percent%20in%20June%20of%201921.
 - For seeing annual changes of inflation rates, GDP growth, and causation of annual economic changes
 in US since 1929: https://www.thebalance.com/unemployment-rate-by-year-3305506
 - For seeing specifically what the highest monthly inflation rates were during the Great Depression
