@@ -56,133 +56,261 @@ even point would be when Q(s)=~42/2=approximately 21 units.
 Demonstration Sequences:
 
 DFS algorithm state sequences to solution:
+
 Solution path:
+
 Current Unemployment Rate: 15% Current Inflation Rate: 3%
+
 Last Government Action Taken:
+
 Current Unemployment Rate: 13.5%
+
 Current Inflation Rate: 3.6%
+
 Last Government Action Taken: Increase Government Spending to Increase Welfare
+
 Current Unemployment Rate: 13.9%
+
 Current Inflation Rate: 1.4%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 12.4%
+
 Current Inflation Rate: 2.0%
+
 Last Government Action Taken: Increase Government Spending to Increase Welfare
+
 Current Unemployment Rate: 12.8%
+
 Current Inflation Rate: -0.20000000000000018%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 11.3%
+
 Current Inflation Rate: 0.3999999999999998%
+
 Last Government Action Taken: Increase Government Spending to Increase Welfare
+
 Current Unemployment Rate: 11.700000000000001%
+
 Current Inflation Rate: -1.8000000000000003%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 10.200000000000001%
+
 Current Inflation Rate: -1.2000000000000002%
+
 Last Government Action Taken: Increase Government Spending to Increase Welfare
+
 Current Unemployment Rate: 10.600000000000001%
+
 Current Inflation Rate: -3.4000000000000004%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 9.100000000000001%
+
 Current Inflation Rate: -2.8000000000000003%
+
 Last Government Action Taken: Increase Government Spending to Increase Welfare
+
 Current Unemployment Rate: 9.500000000000002%
+
 Current Inflation Rate: -5.0%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 8.000000000000002%
+
 Current Inflation Rate: -4.4%
+
 Last Government Action Taken: Increase Government Spending to Increase Welfare
+
 Current Unemployment Rate: 8.400000000000002%
+
 Current Inflation Rate: -6.6000000000000005%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 6.900000000000002%
+
 Current Inflation Rate: -6.000000000000001%
+
 Last Government Action Taken: Increase Government Spending to Increase Welfare
+
 Current Unemployment Rate: 7.3000000000000025%
+
 Current Inflation Rate: -8.200000000000001%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 5.8000000000000025%
+
 Current Inflation Rate: -7.600000000000001%
+
 Last Government Action Taken: Increase Government Spending to Increase Welfare
+
 Current Unemployment Rate: 6.200000000000003%
+
 Current Inflation Rate: -9.8%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 4.700000000000003%
+
 Current Inflation Rate: -9.200000000000001%
+
 Last Government Action Taken: Increase Government Spending to Increase Welfare
+
 Current Unemployment Rate: 5.100000000000003%
+
 Current Inflation Rate: -11.400000000000002%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 3.600000000000003%
+
 Current Inflation Rate: -10.800000000000002%
+
 Last Government Action Taken: Increase Government Spending to Increase Welfare
+
 Current Unemployment Rate: 1.7000000000000033%
+
 Current Inflation Rate: -10.000000000000002%
+
 Last Government Action Taken: Reduce Taxes to Stimulate Consumer Spending
+
 Length of solution path found: 20 edges 20 states expanded. MAX_OPEN_LENGTH = 21
+
 BFS algorithm state sequences to solution:
+
 Nodes on the solution path:
+
 Current Unemployment Rate: 15% Current Inflation Rate: 3%
+
 Last Government Action Taken:
+
 Current Unemployment Rate: 13.5%
+
 Current Inflation Rate: 3.6%
+
 Last Government Action Taken: Increase Government Spending to Increase Welfare
+
 Current Unemployment Rate: 13.9%
+
 Current Inflation Rate: 1.4%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 12.4%
+
 Current Inflation Rate: 2.0%
+
 Last Government Action Taken: Increase Government Spending to Increase Welfare
+
 Current Unemployment Rate: 12.8%
+
 Current Inflation Rate: -0.20000000000000018%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 10.9%
+
 Current Inflation Rate: 0.5999999999999999%
+
 Last Government Action Taken: Reduce Taxes to Stimulate Consumer Spending
+
 Current Unemployment Rate: 11.3%
+
 Current Inflation Rate: -1.6000000000000003%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 9.4%
+
 Current Inflation Rate: -0.8000000000000003%
+
 Last Government Action Taken: Reduce Taxes to Stimulate Consumer Spending
+
 Current Unemployment Rate: 9.8%
+
 Current Inflation Rate: -3.0000000000000004%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 7.9%
+
 Current Inflation Rate: -2.2%
+
 Last Government Action Taken: Reduce Taxes to Stimulate Consumer Spending
+
 Current Unemployment Rate: 8.3%
+
 Current Inflation Rate: -4.4%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 6.4%
+
 Current Inflation Rate: -3.6000000000000005%
+
 Last Government Action Taken: Reduce Taxes to Stimulate Consumer Spending
+
 Current Unemployment Rate: 6.800000000000001%
+
 Current Inflation Rate: -5.800000000000001%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 4.9%
+
 Current Inflation Rate: -5.000000000000001%
+
 Last Government Action Taken: Reduce Taxes to Stimulate Consumer Spending
+
 Current Unemployment Rate: 5.300000000000001%
+
 Current Inflation Rate: -7.200000000000001%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 3.400000000000001%
+
 Current Inflation Rate: -6.400000000000001%
+
 Last Government Action Taken: Reduce Taxes to Stimulate Consumer Spending
+
 Current Unemployment Rate: 3.8000000000000007%
+
 Current Inflation Rate: -8.600000000000001%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Current Unemployment Rate: 1.9000000000000008%
+
 Current Inflation Rate: -7.800000000000002%
+
 Last Government Action Taken: Reduce Taxes to Stimulate Consumer Spending
+
 Current Unemployment Rate: 2.3000000000000007%
+
 Current Inflation Rate: -10.000000000000002%
+
 Last Government Action Taken: Invest in Banks for Financial Stability
+
 Length of solution path found: 18 edges 2646 states expanded. MAX_OPEN_LENGTH = 374
+
 From above, we can see what changes in every state with every operator. When we use the INCREASE_GOVT_SPENDING (“Increase Government Spending to Increase Welfare”) operator, our Unemployment rate decreases by 1.5 units (inflation rate in economy decreases) and our Inflation rate increases by 0.6 units. When we use the INVEST_IN_BANKS (“Invest in Banks for Financial Stability”) operator, our Unemployment rate increases by 0.4 units and our Inflation rate decreases by 2.2 units. And when we use the REDUCE_TAXES (“Reduce Taxes to Stimulate Consumer Spending”) operator, our Unemployment rate decreases by 1.9 units and our Inflation rate increases by 0.8 units.
+
 Summary:
+
 In this problem, I attempted to capture how long it would take to go from the worst economic situations the US has ever been to the very best (i.e. go from the historically lowest unemployment and inflation rates in the US to historically the best respective rates). Since it has already been researched that it takes approximately 8 years for the US to climb out of a recession, I wanted to see how long it would take to go from the very worst situation (severe economic depression) to the very best (economic upswing) instead of a relatively bad situation (a recession) to a break-even (neutral) economy. In formulating the problem, I made the three actions the government could take per year based around what I researched were the three main ways a government can expand overall national GDP and climb out of economic depression. For the three Government Actions, I chose the influence each action had on unemployment and inflation rates as a conservative average of the change they make on unemployment and inflation rates using past annual US unemployment and inflation rates. I believe that for the most part, my problem formulation was successful in capturing a ballpark of the years it would take for the economy to completely switch from an economic depression to economic boom (18 years when using BFS search algorithm and 20 years when using DFS search algorithm). This was what was generally expected, however, I do believe that having constant changes in unemployment and inflation rates for each Government Action simplified the problem more than what is usually realistically exhibited in the US economy. Another problem with my problem formulation was that to make the rules more viable to a “wicked problem”, I made it so that all of the calculations in the evaluations of states and changes in the problem were linear, which also constitutes making the annual Government Actions have constant changes to unemployment and inflation rates. Although these actions had constant changes that were just the average of what sort of impact they would have on the US economy (based on past US economic changes), I still believe, however, that they were a good capture of how the US economy shifts when performing these actions. This is because in the final solution paths for BFS and DFS, increasing government spending to increase welfare was a more frequent action chosen to reduce unemployment rates than reducing taxes was. This is because reducing taxes would have created more of a problem with inflation than it did long-term good for decreasing unemployment rates (at least in comparison to that of increasing government spending and welfare). Another main problem with my formulation was that it only had three total Government Actions to choose from every year, which isn’t realistic to the US’s real economic mobilization, as the US can not only make more than one annual economic decision, but has more than just 3 constant actions to choose from. Another interesting factor that could have been added to my problem formulation was to add international affairs to the US’s economic evaluation. This could have been an interesting factor to simulate, considering the US’s economic boom post-WWII could attest to the fact that US international affairs and policy does impact domestic economy. Nevertheless, for an isolated and observed simulation, I think my problem formulation best captured what steps the government needs to take (based off the three most important actions I researched) to achieve economic boom in the shortest amount of time (with my numbers being averaged across past observed US economic factors).
+
 References:
+
 - For complete history of US Unemployment Rates since 1914: https://tradingeconomics.com/united-
 states/unemployment- rate#:~:text=Unemployment%20Rate%20in%20the%20United,percent%20in%20May%20of%201953 .
 - For complete history of US Inflation Rates since 1914: https://tradingeconomics.com/united- states/inflation-
