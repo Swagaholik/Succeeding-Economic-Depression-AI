@@ -2,17 +2,29 @@
 Uses Artificial Intelligence to formulate and model how to reach a goal state of economic upswing from a start state of economic recession. Also includes work with solving Fox-Farmer-Chicken problem using AI. 
 
 Part A:
+
 Nodes on the solution path:
+
 People in left bank (starting position): Farmer Fox Chicken Grain People in right bank (destination):
+
 People in left bank (starting position): Fox Grain People in right bank (destination): Farmer Chicken
+
 People in left bank (starting position): Fox Grain Farmer People in right bank (destination): Chicken
+
 People in left bank (starting position): Grain
+
 People in right bank (destination): Chicken Farmer Fox
+
 People in left bank (starting position): Grain Farmer Chicken People in right bank (destination): Fox
+
 People in left bank (starting position): Chicken People in right bank (destination): Fox Farmer Grain
+
 People in left bank (starting position): Chicken Farmer People in right bank (destination): Fox Grain
+
 People in left bank (starting position):
+
 People in right bank (destination): Fox Grain Farmer Chicken
+
 Length of solution path found: 7 edges
 
 Part B:
