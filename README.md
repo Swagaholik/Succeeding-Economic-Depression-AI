@@ -52,7 +52,9 @@ because that’s where we start in this problem), our initial unemployment and i
 from reaching our goal state, which relatively is not good since the worse Q(s) function we can have given our
 unemployment/inflation rate thresholds is Q(s) = (20-3) + (15-(-10)) = 17 + 25 = 42. So an economic break-
 even point would be when Q(s)=~42/2=approximately 21 units.
+
 Demonstration Sequences:
+
 DFS algorithm state sequences to solution:
 Solution path:
 Current Unemployment Rate: 15% Current Inflation Rate: 3%
