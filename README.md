@@ -22,6 +22,7 @@ The Severe US Economic Depression problem is modeled around the Great Depression
 of the late 20s to early 30s, as well as the 2008 economic recession. For this wicked problem,
 we will start at a state where the US is undergoing severe economic depression (we have unemployment and inflation rates high enough that constitute those of an economic depression). Our goal state is
 to try and reduce both of these rates (unemployment and inflation) until we are at economic upswing standards. Our goal is to try and reach this goal state in the least number of years (starting at the year 2020). Each year, we are given three options of actions to take in order to reduce either the country's unemployment rate (which may increase the country's inflation rate) or reduce the country's inflation rate (which may increase the country's unemployment rate). When we reach the unemployment rate and inflation rate of economic upswing standards (opposite of economic depression), then we win. The three options we have to choose from every year is to increase government spending (which will decrease unemployment and increase inflation rates), invest in banks (which will increase unemployment and decrease inflation rates), and reduce taxes (which will decrease unemployment and increase inflation). Some rules that must be followed when choosing an action every year are that (1) the government cannot choose to make the same action every year, (2) the unemployment rate cannot spill over a 20% threshold, and (3) the inflation rate cannot spill over a 15% threshold, (4) if a certain rate is already below the threshold for economic upswing then we must choose the action that prioritizes the reduction of the other rate.
+
 Factors:
 - Unemployment rate – 15% for depression state, 3% for economic upswing
 - Inflation – 10% for depression state, -10% for economic upswing
@@ -41,6 +42,7 @@ Rules:
 Evaluation Function:
 Q(s) = (Current State Unemployment Rate – Unemployment Rate for Economic Upswing) +
 (Current State Inflation Rate – Inflation Rate for Economic Upswing)
+
 The lower our Q(s) evaluation is, the better (the closer we are to the goal state). This is because our Q(s)
 evaluates how much higher our current unemployment and inflation rates are from the ideal (lower)
 unemployment and inflation rates that match those of our goal state (those of the United States in an
