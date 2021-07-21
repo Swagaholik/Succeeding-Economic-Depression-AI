@@ -28,7 +28,9 @@ People in right bank (destination): Fox Grain Farmer Chicken
 Length of solution path found: 7 edges
 
 Part B:
+
 Wicked Problem Chosen: Avoiding a severe economic depression in the United States.
+
 Problem Breakdown:
 The Severe US Economic Depression problem is modeled around the Great Depression
 of the late 20s to early 30s, as well as the 2008 economic recession. For this wicked problem,
